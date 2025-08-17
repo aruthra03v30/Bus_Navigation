@@ -1,0 +1,25 @@
+ABSTRACT 
+
+COLLEGE BUS NAVIGATOR 
+
+The College Bus Navigator is a React-based 
+web application designed to help students track 
+college bus routes in real time. The system
+provides a secure login, route details such as 
+departure, arrival, duration, and frequency, and a 
+live tracking interface that simulates bus movement
+between stops. With visual indicators, students can 
+easily identify whether a stop has been passed, is the 
+current location, or upcoming.
+
+The application is built with React,
+TailwindCSS, and ShadCN UI, making it responsive and
+user-friendly. User sessions are maintained using
+localStorage, ensuring a smooth login experience. 
+Although the current version uses simulated data,
+it can be extended with a backend (Node.js + Express + database) 
+and GPS integration for live bus tracking.
+
+This project demonstrates how technology can improve campus
+transportation by offering transparency, convenience, and
+real-time accessibility for students.
